@@ -1,1 +1,28 @@
 /* hoja de estilos para el contador */
+body{
+    font-family: cursive;
+    background-color: slateblue;
+    }
+h2{
+
+}
+
+.year{
+
+}
+.countdow{
+
+}
+
+.countdow #day{
+
+}
+.countdow #hour{
+    
+}
+.countdow #minute{
+    
+}
+.countdow #second{
+    
+}
